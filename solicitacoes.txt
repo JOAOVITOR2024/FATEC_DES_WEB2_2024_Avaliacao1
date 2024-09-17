@@ -1,0 +1,3 @@
+Laboratorio1 | 2000-12-15 | aaaaa | GE
+Laboratorio2 | 2000-12-15 | aaaaaaaaa | DSM
+Laboratorio2 | 2000-12-15 | aaaaaaaaa | GE
